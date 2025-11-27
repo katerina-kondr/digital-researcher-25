@@ -1,0 +1,2 @@
+mess = "Haha"
+print(mess)
